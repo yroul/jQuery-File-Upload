@@ -89,3 +89,4 @@ For a detailed overview of the features supported by each browser version please
 
 ## License
 Released under the [MIT license](http://www.opensource.org/licenses/MIT).
+//MOD BY ME
